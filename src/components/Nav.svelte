@@ -32,37 +32,6 @@
 		padding: 0.5rem;
 		display: block;
 	}
-
-	/* https://github.com/IanLunn/Hover */
-	.hvr-curl-bottom-right {
-		display: inline-block;
-		vertical-align: middle;
-		-webkit-transform: perspective(1px) translateZ(0);
-		transform: perspective(1px) translateZ(0);
-		box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-		position: relative;
-	}
-	.hvr-curl-bottom-right:before {
-		pointer-events: none;
-		position: absolute;
-		content: '';
-		height: 0;
-		width: 0;
-		bottom: 0;
-		right: 0;
-		background: white;
-		/* IE9 */
-		background: linear-gradient(315deg, white 45%, #aaa 50%, #ccc 56%, white 80%);
-		box-shadow: -1px -1px 1px rgba(0, 0, 0, 0.4);
-		-webkit-transition-duration: 0.3s;
-		transition-duration: 0.3s;
-		-webkit-transition-property: width, height;
-		transition-property: width, height;
-	}
-	.hvr-curl-bottom-right:hover:before, .hvr-curl-bottom-right:focus:before, .hvr-curl-bottom-right:active:before {
-		width: 25px;
-		height: 25px;
-	}
 	
 	[aria-current] {
 		color: var(--ubuntu-color);
@@ -75,7 +44,9 @@
 </style>
 
 <nav>
-	<button class="logo" onclick="location.href='.'" style="background-color: white; height: 3rem; width: 10rem; text-align: center;">logo placeholder</button>
+	{#if segment !== undefined}
+		<button class="logo" onclick="location.href='.'" style="background-color: white; height: 3rem; width: 10rem; text-align: center;">logo placeholder</button>
+	{/if}
 
 	<ul>
 		<li>

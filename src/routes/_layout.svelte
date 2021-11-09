@@ -13,10 +13,18 @@
 		margin-left: var(--nav-margin);
 		box-sizing: border-box;
 	}
+
+	.index-main {
+		margin-left: unset;
+		max-width: unset;
+		padding: 0;
+	}
 </style>
 
-<Nav {segment}/>
+{#if segment !== undefined}
+	<Nav {segment}/>
+{/if}
 
-<main>
+<main class="{segment === undefined ? 'index-main' : ''}">
 	<slot></slot>
 </main>
