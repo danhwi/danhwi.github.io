@@ -11,6 +11,8 @@
 		padding: 2em;
 		margin-left: var(--nav-margin);
 		box-sizing: border-box;
+		word-break: break-all;
+		text-align: justify;
 	}
 
 	.index-main {
