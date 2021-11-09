@@ -1,0 +1,41 @@
+<script>
+    export let category;
+    export let title;
+    export let create;
+</script>
+
+<style>
+    .title {
+        color: var(--canonical-color);
+		font-weight: bold;
+		font-size: 3rem;
+		font-family: Ubuntu;
+		padding: 0;
+		margin: 0;
+    }
+
+    .create {
+        color: gray;
+        font-size: 1.2rem;
+        margin: 0.5rem 2rem;
+        text-align: right;
+    }
+
+    .list {
+        display: inline-block;
+        text-decoration: none;
+        padding: 0.5rem 1rem;
+        margin: 1rem 0;
+        border-radius: 1rem;
+        background-color: var(--canonical-color);
+        color: white;
+        font-weight: bold;
+    }
+</style>
+
+<h1 class="title">{title}</h1>
+<h2 class="create">{create}</h2>
+<hr />
+<slot class="content"></slot>
+
+<a class="list" href={category}>목록</a>

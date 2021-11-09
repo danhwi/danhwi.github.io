@@ -9,10 +9,10 @@
 		align-items: center;
 		position: fixed;
 		font-weight: bold;
-		padding: 1em;
 		background-color: var(--canonical-color);
 		height: 100%;
 		width: var(--nav-margin);
+		padding: 1rem 0;
 		z-index: 1;
 	}
 
@@ -39,14 +39,17 @@
 	}
 
 	.logo {
-		margin: 1rem;
+		color: var(--ubuntu-color);
+		font-weight: bold;
+		font-size: 2rem;
+		font-family: Ubuntu;
+		padding: 0;
+		margin: 1rem 0;
 	}
 </style>
 
 <nav>
-	{#if segment !== undefined}
-		<button class="logo" onclick="location.href='.'" style="background-color: white; height: 3rem; width: 10rem; text-align: center;">logo placeholder</button>
-	{/if}
+	<a href="." class="logo">danhwi.log</a>
 
 	<ul>
 		<li>
