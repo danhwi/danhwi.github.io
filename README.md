@@ -24,8 +24,13 @@ $ npm install
 $ npm run dev
 ```
 
-### run by deploy denvironment
+### run by deploy environment
 ```bash
 $ npm run build
 $ npm start
+```
+
+### deploy on github
+```bash
+$ npm run deploy
 ```
