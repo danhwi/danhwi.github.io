@@ -3,15 +3,5 @@
     "category": "살아가는 이야기",
     "description": "살아가며 느끼는 이것저것에 대한 끄적임",
     "pages": [
-        {
-            "title": "제목인가",
-            "create": "2021-11-10",
-            "link": "sample"
-        },
-        {
-            "title": "title of something",
-            "create": "2021-11-10",
-            "link": "404"
-        }
     ]
 }
