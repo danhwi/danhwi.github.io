@@ -3,5 +3,10 @@
     "category": "살아가는 이야기",
     "description": "살아가며 느끼는 이것저것에 대한 끄적임",
     "pages": [
+        {
+            "title": "코딩이 아닌 글쓰기로 잔디 심기",
+            "create": "2021-11-10",
+            "link": "grass-planting"
+        }
     ]
 }
