@@ -19,8 +19,4 @@
     import Board from '../../components/Board.svelte';
 </script>
 
-<svelte:head>
-    <title>단휘로그::{pages.category}</title>
-</svelte:head>
-
 <Board {pages} />

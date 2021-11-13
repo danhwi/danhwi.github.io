@@ -1,3 +1,18 @@
+<svelte:head>
+    <title>단휘로그::{pages.category}</title>
+
+    <meta name="description" content="{pages.description}">
+
+	<meta property="og:title" content="{pages.category}">
+    <meta property="og:description" content="{pages.description}">
+
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="{pages.category}">
+    <meta name="twitter:description" content="{pages.description}">
+    <meta name="twitter:image" content="https://danhwi.github.io/logo-512.png">
+    <meta name="twitter:url" content="https://danhwi.github.io">
+</svelte:head>
+
 <script>
     export let pages;
 </script>

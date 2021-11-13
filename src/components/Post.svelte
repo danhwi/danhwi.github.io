@@ -1,3 +1,18 @@
+<svelte:head>
+    <title>{title}</title>
+
+    <meta name="description" content="{category} - {create}">
+
+	<meta property="og:title" content="{title}">
+    <meta property="og:description" content="{category} - {create}">
+
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="{title}">
+    <meta name="twitter:description" content="{category} - {create}">
+    <meta name="twitter:image" content="https://danhwi.github.io/logo-512.png">
+    <meta name="twitter:url" content="https://danhwi.github.io">
+</svelte:head>
+
 <script>
     export let category;
     export let title;
