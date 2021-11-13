@@ -1,6 +1,7 @@
 :root {
 	--ubuntu-color: #DD4814;
 	--canonical-color: #772953;
+	--under-canonical-color: #77295336;
 	--nav-margin: 14rem;
 }
 
@@ -70,4 +71,12 @@ code {
 .hvr-curl-bottom-right:hover:before, .hvr-curl-bottom-right:focus:before, .hvr-curl-bottom-right:active:before {
 	width: 25px;
 	height: 25px;
+}
+
+.quote {
+	text-align: center;
+	color: var(--ubuntu-color);
+	font-style: italic;
+	padding: 1rem;
+	background-color: var(--under-canonical-color);
 }
