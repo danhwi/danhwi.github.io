@@ -20,6 +20,12 @@
 		max-width: unset;
 		padding: 0;
 	}
+
+	@media (min-width: 1000px) {
+		main {
+			padding: 2em 4vw;
+		}
+	}
 </style>
 
 {#if segment !== undefined}
