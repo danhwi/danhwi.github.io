@@ -40,6 +40,10 @@
 		background-color: white;
 	}
 
+	.mobile-nav {
+		display: none;
+	}
+
 	.logo {
 		color: var(--ubuntu-color);
 		font-weight: bold;
@@ -65,9 +69,88 @@
 	input {
 		width: calc( var(--nav-margin) - 4rem );
 	}
+
+	@media (max-width: 600px) {
+		nav {
+			display: flex;
+			width: 100%;
+			padding: 3vw 0;
+		}
+
+		nav.off {
+			display: none;
+		}
+
+		li {
+			font-size: 3.6vw;
+		}
+
+		a {
+			margin: 3vw 1.5vw;
+			padding: 1.5vw;
+		}
+
+		.mobile-nav {
+			position: absolute;
+			background-color: transparent;
+			display: block;
+			height: 2rem;
+			padding: 1rem 0;
+			z-index: 2;
+		}
+
+		.mobile-nav.on {
+			position: unset;
+			background-color:var(--canonical-color);
+		}
+
+		.mobile-nav img {
+			display: none;
+		}
+		.mobile-nav.on img{
+			display: unset;
+			width: 2rem;
+			margin: 0 1rem;
+		}
+
+		.mobile-nav span {
+			display: inline-block;
+			color: white;
+			font-size: 10vw;
+			width: 2rem;
+			margin: 0 1rem;
+			line-height: 0.5;
+		}
+		.mobile-nav.on span {
+			display: none;
+		}
+
+		.menu {
+			padding: 0;
+			border: none;
+			background-color: transparent;
+		}
+
+		.logo {
+			font-size: 6vw;
+			font-family: Ubuntu;
+			padding: 0;
+			margin: 3vw 0;
+		}
+
+		.search {
+			position: unset;
+			color: white;
+			margin: 2vw;
+		}
+
+		.search button {
+			font-size: 3.6vw;
+		}
+	}
 </style>
 
-<nav>
+<nav id="nav" class="off">
 	<a href="." class="logo">danhwi.log</a>
 
 	<ul>
@@ -102,3 +185,10 @@
 			</button>
 	</div>
 </nav>
+
+<span class="mobile-nav on" id="mobile-nav">
+	<button class="menu" id="mobile-nav" onclick="document.getElementById('nav').classList.toggle('off');document.getElementById('mobile-nav').classList.toggle('on');">
+		<img src="logo-192.png" alt="danhwi.log">
+		<span>×</span>
+	</button>
+</span>

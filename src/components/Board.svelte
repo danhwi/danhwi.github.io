@@ -47,6 +47,29 @@
     a:hover {
         font-weight: bold;
     }
+
+    @media (max-width: 600px) {
+        .title {
+            font-size: 9vw;
+        }
+
+        .description {
+            font-size: 3.6vw;
+            margin: 1.5vw 6vw;
+        }
+
+        .alert {
+            font-size: 6vw;
+        }
+
+        tr {
+            font-size: 3.3vw;
+        }
+        
+        th {
+            font-size: 3.6vw;
+        }
+    }
 </style>
 
 <h1 class="title">{pages.category}</h1>

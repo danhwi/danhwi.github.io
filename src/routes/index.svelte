@@ -42,7 +42,7 @@
 		float: left;
 		font-size: 1.2rem;
 		white-space: nowrap;
-		margin: 1rem 3rem;
+		margin: 1rem 1vw;
 	}
 
 	a {
@@ -56,6 +56,38 @@
 	.title a {
 		padding: 0;
 		background-color: transparent;
+	}
+
+	@media (max-width: 600px) {
+		.cover {
+			height: 120vw;
+		}
+
+		.title {
+			font-size: 12vw;
+		}
+
+		.content {
+			font-size: 3vw;
+		}
+
+		nav {
+			padding: 0 3vw;
+		}
+
+		li {
+			font-size: 3.6vw;
+			margin: 3vw 9vw;
+			float: unset;
+		}
+
+		a {
+			padding: 1.5vw;
+		}
+
+		nav a {
+			margin: 2vw;
+		}
 	}
 </style>
 

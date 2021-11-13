@@ -31,6 +31,23 @@
         color: white;
         font-weight: bold;
     }
+
+    @media (max-width: 600px) {
+        .title {
+            font-size: 9vw;
+        }
+
+        .create {
+            font-size: 3.6vw;
+            margin: 1.5vw 6vw;
+        }
+
+        .list {
+            padding: 1.5vw 3vw;
+            margin: 3vw 0;
+            border-radius: 3vw;
+        }
+    }
 </style>
 
 <h1 class="title">{title}</h1>

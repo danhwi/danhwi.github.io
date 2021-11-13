@@ -3,6 +3,7 @@
 	--canonical-color: #772953;
 	--under-canonical-color: #77295336;
 	--nav-margin: 14rem;
+	--nav-margin-mobile: 28vw;
 }
 
 body {
@@ -23,8 +24,16 @@ h1 {
 	font-size: 2em;
 }
 
+p {
+	font-size: 1rem;
+}
+
 a {
 	color: inherit;
+}
+
+a, button {
+	cursor: pointer;
 }
 
 code {
@@ -79,4 +88,14 @@ code {
 	font-style: italic;
 	padding: 1rem;
 	background-color: var(--under-canonical-color);
+}
+
+@media (max-width: 600px) {
+	h1 {
+		font-size: 6vw;
+	}
+	
+	p {
+		font-size: 3vw;
+	}
 }

@@ -26,6 +26,12 @@
 			padding: 2em 4vw;
 		}
 	}
+
+	@media (max-width: 600px) {
+		main {
+			margin-left: 0;
+		}
+	}
 </style>
 
 {#if segment !== undefined}
