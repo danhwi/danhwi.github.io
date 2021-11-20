@@ -4,12 +4,13 @@
     let category = 'trace';
     let title = '연기 공학';
     let create = '2020-09-05';
+    let link = "act-engineering";
 </script>
 
 <style>
 </style>
 
-<Post {category} {title} {create}>
+<Post {category} {title} {create} {link}>
     <p>
         그래, 지금 상태는
         "리팩토링이 필요한, 작동하는 코드".

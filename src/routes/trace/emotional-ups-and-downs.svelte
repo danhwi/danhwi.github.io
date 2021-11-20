@@ -4,6 +4,7 @@
     let category = 'trace';
     let title = '감정기복에 대하여';
     let create = '2021-09-29';
+    let link = 'emotional-ups-and-downs';
 </script>
 
 <style>
@@ -12,7 +13,7 @@
     }
 </style>
 
-<Post {category} {title} {create}>
+<Post {category} {title} {create} {link}>
     <p>
         살다보면 삶의 어느 순간에 문득 깨닫게 되는 것들이 있다.
         어쩌면 우리는 그런 순간들 속에서 성장하는 게 아닐까.

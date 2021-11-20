@@ -2,6 +2,7 @@
     <title>{title}</title>
 
     <meta name="description" content="{category} - {create}">
+	<link rel="canonical" href="https://danhwi.web.app/{category}/{link}">
 
 	<meta property="og:title" content="{title}">
     <meta property="og:description" content="{category} - {create}">
@@ -17,6 +18,7 @@
     export let category;
     export let title;
     export let create;
+    export let link;
 </script>
 
 <style>

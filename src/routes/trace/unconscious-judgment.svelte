@@ -4,6 +4,7 @@
     let category = 'trace';
     let title = '무의식적인 판단';
     let create = '2021-06-22';
+    let link = 'unconscious-judgment';
 </script>
 
 <style>
@@ -12,7 +13,7 @@
     }
 </style>
 
-<Post {category} {title} {create}>
+<Post {category} {title} {create} {link}>
     <p>
         사람들은 다른 누군가를 판단할 때 자기 자신을 기준으로 판단하곤 한다.
         자신이 알지 못하는 부분에 대해서는 자신과 동일, 혹은 유사할 거라고 무의식적으로 가정하는 것이다.

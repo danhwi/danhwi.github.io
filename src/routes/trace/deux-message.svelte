@@ -4,9 +4,10 @@
     let category = 'trace';
     let title = 'Deux, <Message>';
     let create = '2021-02-19';
+    let link = 'link';
 </script>
 
-<Post {category} {title} {create}>
+<Post {category} {title} {create} {link}>
     <p class="quote">
         위로 위로 올라갈수록 아래보다 위가 더 멀어보이고<br />
         ― Deux, &lt;Message&gt;

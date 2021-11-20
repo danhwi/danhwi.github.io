@@ -4,9 +4,10 @@
     let category = 'trace';
     let title = '소프트웨어 공학적 관점';
     let create = '2020-08-28';
+    let link = 'software-engineering';
 </script>
 
-<Post {category} {title} {create}>
+<Post {category} {title} {create} {link}>
     <p>
         정말 사소한 것 하나를 작동시킨다 하더라도
     </p>

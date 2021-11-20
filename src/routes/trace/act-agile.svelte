@@ -4,6 +4,7 @@
     let category = 'trace';
     let title = '연기는 Agile이다?';
     let create = '2020-08-02';
+    let link = 'act-agile';
 </script>
 
 <style>
@@ -12,7 +13,7 @@
     }
 </style>
 
-<Post {category} {title} {create}>
+<Post {category} {title} {create} {link}>
     <p>
         요구사항―대본을 바탕으로 분석하고 설계한다.
         그것을 바탕으로 실행 가능한 형태의 코드―연기를 구현하고 실행한다.

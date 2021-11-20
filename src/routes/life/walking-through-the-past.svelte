@@ -4,6 +4,7 @@
     let category = 'life';
     let title = '과거를 거니는 일';
     let create = '2021-11-13';
+    let link = 'walking-through-the-past';
 </script>
 
 <style>
@@ -12,7 +13,7 @@
     }
 </style>
 
-<Post {category} {title} {create}>
+<Post {category} {title} {create} {link}>
     <p>
         가끔 때때로 기억 속 저 편으로 흘러 들어가 과거를 거닐곤 한다.
         경우에 따라서는 물리적인 매개체가 존재하기도 하고,

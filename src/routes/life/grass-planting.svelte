@@ -4,9 +4,10 @@
     let category = 'life';
     let title = '코딩이 아닌 글쓰기로 잔디 심기';
     let create = '2021-11-10';
+    let link = 'grass-planting';
 </script>
 
-<Post {category} {title} {create}>
+<Post {category} {title} {create} {link}>
     <p>
         코딩을 통해 잔디를 심는 공간. 하지만 그곳에 글을 통해 잔디를 심기로 했다.
         물론 개발 블로그를 운영하며 잔디를 심는 사람도 있긴 하지만 난 개발과는 무관한 이야기로.

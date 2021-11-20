@@ -4,9 +4,10 @@
     let category = 'life';
     let title = '아무리 바빠도';
     let create = '2021-11-19';
+    let link = 'even-too-busy';
 </script>
 
-<Post {category} {title} {create}>
+<Post {category} {title} {create} {link}>
     <p>
         "아무리 바빠도 이것만은 하자"라고 정해놓은 무언가가 있다면,
         그리고 이를 잘 실천할 수 있다면
