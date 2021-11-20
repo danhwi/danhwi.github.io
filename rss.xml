@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>danhwi.log</title>
+    <link>https://danhwi.github.io</link>
+    <description>당신의 삶에서 유의미한 가치를 갖길 바라는, 단휘의 소소한 끄적임</description>
+
+    <item>
+        <title>아무리 바빠도</title>
+        <description>life - 2021-11-19</description>
+        <guid>https://danhwi.github.io/life/even-too-busy</guid>
+        <link>https://danhwi.github.io/life/even-too-busy</link> 
+        <category domain="https://danhwi.github.io/life">살아가는 이야기</category>
+    </item>
+    <item>
+        <title>과거를 거니는 일</title>
+        <description>life - 2021-11-13</description>
+        <guid>https://danhwi.github.io/life/walking-through-the-past</guid>
+        <link>https://danhwi.github.io/life/walking-through-the-past</link> 
+        <category domain="https://danhwi.github.io/life">살아가는 이야기</category>
+    </item>
+    <item>
+        <title>코딩이 아닌 글쓰기로 잔디 심기</title>
+        <description>life - 2021-11-10</description>
+        <guid>https://danhwi.github.io/life/grass-planting</guid>
+        <link>https://danhwi.github.io/life/grass-planting</link> 
+        <category domain="https://danhwi.github.io/life">살아가는 이야기</category>
+    </item>
+    <item>
+        <title>감정기복에 대하여</title>
+        <description>trace - 2021-09-29</description>
+        <guid>https://danhwi.github.io/trace/emotional-ups-and-downs</guid>
+        <link>https://danhwi.github.io/trace/emotional-ups-and-downs</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>무의식적인 판단</title>
+        <description>trace - 2021-06-22</description>
+        <guid>https://danhwi.github.io/trace/unconscious-judgment</guid>
+        <link>https://danhwi.github.io/trace/unconscious-judgment</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>Deux, &lt;Message&gt;</title>
+        <description>trace - 2021-02-19</description>
+        <guid>https://danhwi.github.io/trace/deux-message</guid>
+        <link>https://danhwi.github.io/trace/deux-message</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>연기 공학</title>
+        <description>trace - 2020-09-05</description>
+        <guid>https://danhwi.github.io/trace/act-engineering</guid>
+        <link>https://danhwi.github.io/trace/act-engineering</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>소프트웨어 공학적 관점</title>
+        <description>trace - 2020-08-28</description>
+        <guid>https://danhwi.github.io/trace/software-engineering</guid>
+        <link>https://danhwi.github.io/trace/software-engineering</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>연기는 Agile이다?</title>
+        <description>trace - 2020-08-02</description>
+        <guid>https://danhwi.github.io/trace/act-agile</guid>
+        <link>https://danhwi.github.io/trace/act-agile</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+  </channel>
+</rss>
