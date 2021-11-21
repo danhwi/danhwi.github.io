@@ -2,7 +2,7 @@
     <title>단휘로그::{pages.category}</title>
 
     <meta name="description" content="{pages.description}">
-	<link rel="canonical" href="https://danhwi.web.app/{pages.segment}">
+	<link rel="canonical" href="https://danhwi.github.io/{pages.segment}">
 
 	<meta property="og:title" content="{pages.category}">
     <meta property="og:description" content="{pages.description}">

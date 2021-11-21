@@ -2,7 +2,7 @@
     <title>{title}</title>
 
     <meta name="description" content="{category} - {create}">
-	<link rel="canonical" href="https://danhwi.web.app/{category}/{link}">
+	<link rel="canonical" href="https://danhwi.github.io/{category}/{link}">
 
 	<meta property="og:title" content="{title}">
     <meta property="og:description" content="{category} - {create}">

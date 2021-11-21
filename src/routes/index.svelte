@@ -2,7 +2,7 @@
 	<title>단휘로그</title>
 
 	<meta name="description" content="당신의 삶에서 유의미한 가치를 갖길 바라는, 단휘의 소소한 끄적임">
-	<link rel="canonical" href="https://danhwi.web.app">
+	<link rel="canonical" href="https://danhwi.github.io">
 
 	<meta property="og:title" content="danhwi.log">
 	<meta property="og:description" content="당신의 삶에서 유의미한 가치를 갖길 바라는, 단휘의 소소한 끄적임">
