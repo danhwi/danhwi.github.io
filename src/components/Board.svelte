@@ -11,7 +11,7 @@
 	<meta name="twitter:title" content="{pages.category}">
     <meta name="twitter:description" content="{pages.description}">
     <meta name="twitter:image" content="https://danhwi.github.io/logo-512.png">
-    <meta name="twitter:url" content="https://danhwi.github.io">
+    <meta name="twitter:url" content="https://danhwi.github.io/{pages.segment}">
 </svelte:head>
 
 <script>
