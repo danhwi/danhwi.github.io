@@ -4,6 +4,11 @@
     "description": "살아가며 느끼는 이것저것에 대한 끄적임",
     "pages": [
         {
+            "title": "글의 셔터 누르기",
+            "create": "2021-11-21",
+            "link": "press-the-shutter-of-the-writing"
+        },
+        {
             "title": "아무리 바빠도",
             "create": "2021-11-19",
             "link": "even-too-busy"
