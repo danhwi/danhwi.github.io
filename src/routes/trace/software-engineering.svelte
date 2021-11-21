@@ -29,7 +29,8 @@
     <p>
         하지만 정말 호흡이라는 Tick과 충동이라는 Trigger로,
         사실 그렇잖아.
-        고대 그리스에선 공학과 예술은 본디 하나였는걸?&#x1F3AD;
+        고대 그리스에선 공학과 예술은 본디 하나였는걸?
+        &#x1F3AD;
     </p>
     <p class="quote">
         &#x1F517; <a href="https://www.facebook.com/danhwi.jung/posts/1600992953412517">페이스북 게시물</a>에서 발췌

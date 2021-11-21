@@ -28,7 +28,8 @@
         반복할 때마다 확장적으로 개선되어 간다.
     </p>
     <p>
-        그건 마치 Iterative Spiral Model... 결국 연기는 Agile이다?&#x1F3AD;
+        그건 마치 Iterative Spiral Model... 결국 연기는 Agile이다?
+        &#x1F3AD;
     </p>
     <p class="quote">
         &#x1F517; <a href="https://www.facebook.com/danhwi.jung/posts/1577522255759587">페이스북 게시물</a>에서 발췌
