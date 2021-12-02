@@ -4,6 +4,11 @@
     "description": "살아가며 느끼는 이것저것에 대한 끄적임",
     "pages": [
         {
+            "title": "재촉한다는 것",
+            "create": "2021-12-02",
+            "link": "urge-to-do-quickly"
+        },
+        {
             "title": "글의 셔터 누르기",
             "create": "2021-11-21",
             "link": "press-the-shutter-of-the-writing"
