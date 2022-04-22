@@ -69,6 +69,13 @@
         <category domain="https://danhwi.github.io/life">살아가는 이야기</category>
     </item>
     <item>
+        <title>실향민</title>
+        <description>fiction - 2022-04-22</description>
+        <guid>https://danhwi.github.io/fiction/displaced</guid>
+        <link>https://danhwi.github.io/fiction/displaced</link> 
+        <category domain="https://danhwi.github.io/life">가상세계 이야기</category>
+    </item>
+    <item>
         <title>감정기복에 대하여</title>
         <description>trace - 2021-09-29</description>
         <guid>https://danhwi.github.io/trace/emotional-ups-and-downs</guid>
