@@ -4,6 +4,11 @@
     "description": "살아가며 느끼는 이것저것에 대한 끄적임",
     "pages": [
         {
+            "title": "패시브 스킬",
+            "create": "2022-04-23",
+            "link": "passive-skill"
+        },
+        {
             "title": "책임과 권한",
             "create": "2022-03-04",
             "link": "responsibility-and-authority"
