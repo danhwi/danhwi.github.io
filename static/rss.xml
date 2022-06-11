@@ -97,6 +97,13 @@
         <category domain="https://danhwi.github.io/life">가상세계 이야기</category>
     </item>
     <item>
+        <title>도깨비불</title>
+        <description>trace - 2022-06-10</description>
+        <guid>https://danhwi.github.io/trace/poem-wisp</guid>
+        <link>https://danhwi.github.io/trace/poem-wisp</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
         <title>감정기복에 대하여</title>
         <description>trace - 2021-09-29</description>
         <guid>https://danhwi.github.io/trace/emotional-ups-and-downs</guid>
@@ -136,6 +143,76 @@
         <description>trace - 2020-08-02</description>
         <guid>https://danhwi.github.io/trace/act-agile</guid>
         <link>https://danhwi.github.io/trace/act-agile</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>2학년 9반의 미스테리</title>
+        <description>trace - 2015-04-14</description>
+        <guid>https://danhwi.github.io/trace/mystery-of-grade-2-class-9</guid>
+        <link>https://danhwi.github.io/trace/mystery-of-grade-2-class-9</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>사랑</title>
+        <description>trace - 2014-12-29</description>
+        <guid>https://danhwi.github.io/trace/love</guid>
+        <link>https://danhwi.github.io/trace/love</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>어느 甲午年의 꽃</title>
+        <description>trace - 2014-07-31</description>
+        <guid>https://danhwi.github.io/trace/poem-flower-of-the-year-of-the-blue-horse</guid>
+        <link>https://danhwi.github.io/trace/poem-flower-of-the-year-of-the-blue-horse</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>회상</title>
+        <description>trace - 2014-07-16</description>
+        <guid>https://danhwi.github.io/trace/poem-reminiscence</guid>
+        <link>https://danhwi.github.io/trace/poem-reminiscence</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>나를 보는 너의 시선</title>
+        <description>trace - 2014-07-09</description>
+        <guid>https://danhwi.github.io/trace/poem-your-gaze-on-me</guid>
+        <link>https://danhwi.github.io/trace/poem-your-gaze-on-me</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>너의 날개를</title>
+        <description>trace - 2014-06-24</description>
+        <guid>https://danhwi.github.io/trace/poem-your-wings</guid>
+        <link>https://danhwi.github.io/trace/poem-your-wings</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>대경양</title>
+        <description>trace - 2014-06-23</description>
+        <guid>https://danhwi.github.io/trace/poem-fts</guid>
+        <link>https://danhwi.github.io/trace/poem-fts</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>소통</title>
+        <description>trace - 2014-06-22</description>
+        <guid>https://danhwi.github.io/trace/poem-communication</guid>
+        <link>https://danhwi.github.io/trace/poem-communication</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>소실</title>
+        <description>trace - 2014-06-20</description>
+        <guid>https://danhwi.github.io/trace/poem-disappearance</guid>
+        <link>https://danhwi.github.io/trace/poem-disappearance</link> 
+        <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
+    </item>
+    <item>
+        <title>너의 너에게</title>
+        <description>trace - 2014-06-19</description>
+        <guid>https://danhwi.github.io/trace/poem-to-your-you</guid>
+        <link>https://danhwi.github.io/trace/poem-to-your-you</link> 
         <category domain="https://danhwi.github.io/trace">언젠가의 이야기</category>
     </item>
   </channel>
