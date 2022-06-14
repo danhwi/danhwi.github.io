@@ -99,6 +99,10 @@
 			z-index: 2;
 		}
 
+		.mobile-nav a {
+			display: inline;
+		}
+
 		.mobile-nav.on {
 			position: unset;
 			background-color:var(--canonical-color);
@@ -187,8 +191,8 @@
 </nav>
 
 <span class="mobile-nav on" id="mobile-nav">
-	<button class="menu" id="mobile-nav" onclick="document.getElementById('nav').classList.toggle('off');document.getElementById('mobile-nav').classList.toggle('on');">
+	<a class="menu" id="mobile-nav" href=".">
 		<img src="logo-192.png" alt="danhwi.log">
 		<span>×</span>
-	</button>
+	</a>
 </span>
